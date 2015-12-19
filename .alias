@@ -1,0 +1,7 @@
+alias g='git'
+alias gsvn='git svn'
+alias tag='ctags --sort=foldcase -R | cscope -Rbq'
+alias v='vim'
+alias vp='vim +Project'
+alias ctcpb='cd ~/project/cpb'
+alias ctdts='cd ~/project/cpb/dts_xs/trunk/'

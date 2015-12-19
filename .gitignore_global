@@ -1,0 +1,15 @@
+<span style="font-size:small;"> # compile source
+
+#######
+*.out
+cscope*
+tags
+build/
+build.sh
+clean.sh
+ppc_env.sh
+qtui/*.o
+qtui/ui_*.h
+qtui/Makefile
+qtui/moc_*.cpp
+qtui/qrc_*.cpp
